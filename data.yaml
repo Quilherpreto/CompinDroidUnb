@@ -1,0 +1,4 @@
+train: /home/guilherme-andrade-mendes/Downloads/deucertoame/train-20240807T024310Z-001 (Copiar)/train/images
+val: /home/guilherme-andrade-mendes/Downloads/deucertoame/train-20240807T024310Z-001 (Copiar)/train/images  # Mesmo conjunto para treino e validação
+nc: 3  # número de classes (ajuste conforme necessário)
+names: ['classe1','classe2','classe3']  # nomes das classes
